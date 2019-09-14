@@ -1,0 +1,36 @@
+2019-09-11 23:13:09 INFO  WbDriverManager: Starting new Chrome driver 
+2019-09-11 23:13:10 INFO  WbDriverManager: Navigate to: https://www.utest.com/signup/personal 
+2019-09-11 23:13:18 INFO  WbElement: Finding: Warning icon of: email 
+2019-09-11 23:13:18 INFO  WbElement: Warning icon of: email is display ? false 
+2019-09-11 23:13:18 INFO  WbElement: Finding: Email text box 
+2019-09-11 23:13:18 INFO  WbElement: Send string ABC@com to Email text box 
+2019-09-11 23:13:19 INFO  WbElement: Finding: Warning icon of: email 
+2019-09-11 23:13:19 INFO  WbElement: Warning icon of: email is display ? true 
+2019-09-11 23:13:19 INFO  WbElement: Finding: Warning message of: email 
+2019-09-11 23:13:19 INFO  WbDriverManager: Navigate to: https://www.utest.com/signup/personal 
+2019-09-11 23:13:23 INFO  WbElement: Finding: First name text box 
+2019-09-11 23:13:23 INFO  WbElement: Send string Not to First name text box 
+2019-09-11 23:13:23 INFO  WbElement: Finding: Last name text box 
+2019-09-11 23:13:23 INFO  WbElement: Send string Ninety Minute to Last name text box 
+2019-09-11 23:13:23 INFO  WbElement: Finding: Email text box 
+2019-09-11 23:13:23 INFO  WbElement: Send string not90@restmail.net to Email text box 
+2019-09-11 23:13:23 INFO  WbElement: Finding: Month select box 
+2019-09-11 23:13:23 INFO  WbElement: Clicking : Month select box 
+2019-09-11 23:13:24 INFO  WbElement: Finding: Choice: January 
+2019-09-11 23:13:24 INFO  WbElement: Clicking : Choice: January 
+2019-09-11 23:13:24 INFO  WbElement: Finding: Day select box 
+2019-09-11 23:13:24 INFO  WbElement: Clicking : Day select box 
+2019-09-11 23:13:24 INFO  WbElement: Finding: Choice: 30 
+2019-09-11 23:13:25 INFO  WbElement: Clicking : Choice: 30 
+2019-09-11 23:13:25 INFO  WbElement: Finding: Year select box 
+2019-09-11 23:13:25 INFO  WbElement: Clicking : Year select box 
+2019-09-11 23:13:25 INFO  WbElement: Finding: Choice: 1987 
+2019-09-11 23:13:25 INFO  WbElement: Clicking : Choice: 1987 
+2019-09-11 23:13:26 INFO  WbElement: Finding: Gender select box 
+2019-09-11 23:13:26 INFO  WbElement: Clicking : Gender select box 
+2019-09-11 23:13:26 INFO  WbElement: Finding: Choice: Male 
+2019-09-11 23:13:26 INFO  WbElement: Clicking : Choice: Male 
+2019-09-11 23:13:26 INFO  WbElement: Finding: Next button 
+2019-09-11 23:13:26 INFO  WbElement: Clicking : Next button 
+2019-09-11 23:13:27 INFO  WbDriverManager: Current url: https://www.utest.com/signup/address 
+2019-09-11 23:13:27 INFO  WbDriverManager: Close browser 
