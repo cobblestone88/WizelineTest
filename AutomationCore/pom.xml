@@ -37,7 +37,7 @@
 					<systemProperties>
 						<property>
 							<name>allure.results.directory</name>
-							<value>${suiteOutput}/allure-results</value>
+							<value>test-output/allure-results</value>
 						</property>
 					</systemProperties>
 					<suiteXmlFiles>
