@@ -3,3 +3,4 @@ test-output
 target
 .log
 logs
+allure-results
